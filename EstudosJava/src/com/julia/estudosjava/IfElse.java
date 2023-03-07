@@ -1,10 +1,11 @@
+
 package com.julia.estudosjava;
 
 public class IfElse {
 
 	public static void main (String[] args) {
 		
-		Scanner Scan = new Scanner();
+		Scanner Scan = new Scanner(System.in);
 		
 		System.out.println("Digite a sua idade");
 		int idade = scan.nextInt();
