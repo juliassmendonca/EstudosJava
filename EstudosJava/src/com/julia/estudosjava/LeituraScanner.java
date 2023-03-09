@@ -19,7 +19,7 @@ public class LeituraScanner {
 		
 		
 		System.out.println("Digite a sua idade: ");
-		Int idade = scan.nextInt(); 
+		int idade = scan.nextInt(); 
 		System.out.println("Sua idade é " + idade);
 		
 		System.out.println("Digite a sua altura");
